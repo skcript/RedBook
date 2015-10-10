@@ -1,4 +1,4 @@
-# Workplace Policy
+### Workplace Policy
 
 We are a small team right now, and any decision we take everyday heavily depends on each and every team member working on great products. Sometimes, we take decisions very quickly, and if things are going in wrong direction, we turn back that decision as quickly as possible. While making such rapid decisions, we expect everyone to be present at the office participating in all the conversations that are going on. Because of this, we've put a lot of time and money in designing our office space, and stregically placing it in a place that's easily accessible to the team members.
 

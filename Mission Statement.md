@@ -1,4 +1,4 @@
-# Mission Statement
+### Mission Statement
 
 > Our mission is to make tools that enables them to push the human race forward.
 
