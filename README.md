@@ -29,6 +29,7 @@ We will constantly approve pull requests and contributions to this repository. W
 - [Employment Policy](https://github.com/skcript/BlackBook/blob/master/Policies/Employment%20Policy.md)
 - [Workplace Policy](https://github.com/skcript/BlackBook/blob/master/Policies/Workplace%20Policy.md)
 - [Code of Conduct](https://github.com/skcript/BlackBook/blob/master/Policies/Code%20of%20Conduct.md)
+- [Employee Privacy](https://github.com/skcript/BlackBook/blob/master/Policies/Employee%20Privacy.md)
 
 ## Contributors
 
