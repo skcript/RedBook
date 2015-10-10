@@ -17,3 +17,5 @@
 
 
 If a holiday falls on a weekend, an appropriate date will be fixed to observe the holiday in adjascent days for your travel.
+
+**P.S.** This is in development and will be updated within the next few days.
