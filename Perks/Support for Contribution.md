@@ -1,4 +1,4 @@
-### Leaves for Contribution
+### Support for Contribution
 
 Skcript truly believes in contributing to the community in any form that would help other people. So we understand that it’s important to support our teams’ efforts to contribute, learn, grow and improve the community. These are some of the key benefits of working at Skcript, and following its culture.
 
