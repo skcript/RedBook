@@ -25,6 +25,7 @@ We will constantly approve pull requests and contributions to this repository. W
 ## Contents
 
 - [Values](Values.md)
+- [Mission Statement](Mission Statement.md)
 
 ## Contributors
 
