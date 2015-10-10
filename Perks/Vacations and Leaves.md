@@ -11,3 +11,7 @@ Team members should report vacation and sick days to the founder they report to,
 Team members with chronic or terminal illnesses should talk with the founder they report to about their needs for remote work, flexible time, disability leave and/or other support.
 
 Being a small team, any unannounced leave will hurt the business of the company, which in turn goes against the growth of the company, and will not be tolerated.
+
+#### Bereavement Leave
+
+An employee who wishes to take time off due to the death of an immediate family member should notify the founder to whom they report. Paid bereavement leave will be granted up to three consecutive days for the death of a family member including the following:  spouse, domestic partner, cohabitant, child, stepchild, grandchild, parent, stepparent, mother-in-law, father-in-law, son-in-law, daughter-in-law, grandparent, great grandparent, brother or sister.
