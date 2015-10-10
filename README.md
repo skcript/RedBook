@@ -20,6 +20,12 @@ We will constantly approve pull requests and contributions to this repository. W
 
 — [Karthik K](https://twitter.com/imkarthikk)
 
+***
+
+## Contents
+
+- [Values](Values.md)
+
 ## Contributors
 
 We encourage as many people as possible to contribute to this repository to create a better startup ecosystem before we could change the world. Here are some of the people who’re actively contributing to this repository:
