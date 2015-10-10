@@ -1,6 +1,6 @@
 ### Code of Conduct
 
-> This code of conduct applies to the Skcript team members in all of their community contributions they're making everyday. Their online communities inclure activities at Open source contributions, Twitter, Facebook, Slack, IRC, Email and many other areas.
+> This code of conduct applies to the Skcript team members in all of their community contributions they're making everyday. Their online communities include activities at Open source contributions, Twitter, Facebook, Slack, IRC, Email and many other areas.
 
 We are committed to creating an innovation oriented environment for everyone, regardless of the age, gender, sexual orientation, disability, physical appearance, body size, race, ethnicity, nationality, religion, or professional experience. 
 

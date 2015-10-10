@@ -10,4 +10,4 @@ Our email system is intended for official Company business. If you send personal
 
 #### Internet Use Is Not Private
 
-We reserve the right to monitor employee use of the Internet at any time. You should not expect that your use of the Internet—including but not limited to the sites you visit, the amount of time you spend online, and the communications you have—will be private. Any abuse of the internel will not be tolerated. Downloading content through torrents will be constantly monitored.
+We reserve the right to monitor employee use of the Internet at any time. You should not expect that your use of the Internet—including but not limited to the sites you visit, the amount of time you spend online, and the communications you have—will be private. Any abuse of the internet will not be tolerated. Downloading content through torrents will be constantly monitored.
