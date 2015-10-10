@@ -26,6 +26,7 @@ We will constantly approve pull requests and contributions to this repository. W
 
 - [Values](Values.md)
 - [Mission Statement](Mission Statement.md)
+- [Employment Policy](https://github.com/skcript/BlackBook/blob/master/Policies/Employment%20Policy.md)
 
 ## Contributors
 
