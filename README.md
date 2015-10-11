@@ -59,6 +59,8 @@ We will constantly approve pull requests and contributions to this repository. W
 
 - [Hierarchy](https://github.com/skcript/BlueBook/blob/master/Internal/Hierarchy.md)
 
+***
+
 ## Contributors
 
 We encourage as many people as possible to contribute to this repository to create a better startup ecosystem before we could change the world. Here are some of the people who’re actively contributing to this repository:
