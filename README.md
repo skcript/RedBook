@@ -6,15 +6,19 @@ While these things sounds good on paper, it is far more difficult to implement, 
 
 We started working on the #OpenCulture project that encourages people to open-source their company culture to create one super huge book of culture to help other startups.
 
-We are open-sourcing our culture documents and the contents of our BlueBook in this repository. Here’s what this repository will contain in the coming weeks:
+We are open-sourcing our culture documents and the contents of our BlueBook in this repository. We are looking to open source the following documents:
 
-- Welcome letter
 - Our Values
-- Working with Passion and Working with Focus
 - Mission Statement
-- At-Will Employment
+- Employment Policy
+- Holiday/Leave Policy
+- Support for Contribution
+- Sabbatical Policy
 - Code of Conduct
-- Remote Working Policy
+- Employee Privacy
+- Welcome Letter
+- Employee Proprietary Information and Inventions Assignment Agreement
+- Internal Hierarchy
 
 We will constantly approve pull requests and contributions to this repository. We believe that its very important to make the startups a better place, before we could make the world a better place.
 
@@ -24,12 +28,36 @@ We will constantly approve pull requests and contributions to this repository. W
 
 ## Contents
 
+**Generic:**
+
 - [Values](Values.md)
 - [Mission Statement](Mission Statement.md)
-- [Employment Policy](https://github.com/skcript/BlueBook/blob/master/Policies/Employment%20Policy.md)
-- [Workplace Policy](https://github.com/skcript/BlueBook/blob/master/Policies/Workplace%20Policy.md)
+
+**Policies**
+
 - [Code of Conduct](https://github.com/skcript/BlueBook/blob/master/Policies/Code%20of%20Conduct.md)
 - [Employee Privacy](https://github.com/skcript/BlueBook/blob/master/Policies/Employee%20Privacy.md)
+- [Employment Policy](https://github.com/skcript/BlueBook/blob/master/Policies/Employment%20Policy.md)
+- [Workplace Policy](https://github.com/skcript/BlueBook/blob/master/Policies/Workplace%20Policy.md)
+
+**Perks**
+
+- [Holidays](https://github.com/skcript/BlueBook/blob/master/Perks/Holidays.md)
+- [Insurance](https://github.com/skcript/BlueBook/blob/master/Perks/Insurance.md)
+- [Sabbatical](https://github.com/skcript/BlueBook/blob/master/Perks/Sabbatical.md)
+- [Support for Contribution](https://github.com/skcript/BlueBook/blob/master/Perks/Support%20for%20Contribution.md)
+- [Vacations and Leaves](https://github.com/skcript/BlueBook/blob/master/Perks/Vacations%20and%20Leaves.md)
+
+**Letters & Documents**
+
+- [Acknowledgement of Receipt](https://github.com/skcript/BlueBook/blob/master/Letters%20%26%20Documents/Acknowledgment%20of%20Receipt.md)
+- [Employee Proprietary Information and Inventions Assignment Agreement](https://github.com/skcript/BlueBook/blob/master/Letters%20%26%20Documents/EPIIAA.md)
+- [Hello Engineer](https://github.com/skcript/BlueBook/blob/master/Letters%20%26%20Documents/Hello%20Engineer.md)
+- [Welcome One Pager](https://github.com/skcript/BlueBook/blob/master/Letters%20%26%20Documents/Welcome%20One%20Pager.md)
+
+**Internal**
+
+- [Hierarchy](https://github.com/skcript/BlueBook/blob/master/Internal/Hierarchy.md)
 
 ## Contributors
 
