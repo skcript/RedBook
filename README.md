@@ -67,3 +67,18 @@ We encourage as many people as possible to contribute to this repository to crea
 
 - [Karthik K](https://github.com/imkarthikk)
 - [Swaathi K](https://github.com/swaathi)
+
+***
+
+## About
+
+![Skcript](http://www.skcript.com/static/skcript_norm.png)
+
+Get. Set. Rails. is maintained and funded by Skcript. The names and logos for
+Skcript are properties of Skcript.
+
+We love open source, and we have been doing quite a bit of contributions to the community. Take a look at them [here][skcriptoss]. Also, encourage people around us to get involved in community [operations][community]. [Join us][hiring], if you'd like to see the world change from our HQ.
+
+[skcriptoss]: http://skcript.github.io/
+[community]: http://www.skcript.com/community?utm_source=github
+[hiring]: http://www.skcript.com/careers?utm_source=github
