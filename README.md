@@ -68,6 +68,10 @@ We encourage as many people as possible to contribute to this repository to crea
 - [Karthik K](https://github.com/imkarthikk)
 - [Swaathi K](https://github.com/swaathi)
 
+This project adheres to the [Open Code of Conduct][code-of-conduct]. By participating, you are expected to honor this code.
+
+[code-of-conduct]: http://todogroup.org/opencodeofconduct/#RedBook/karthik@skcript.com
+
 ***
 
 ## About
