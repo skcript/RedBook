@@ -30,8 +30,8 @@ We will constantly approve pull requests and contributions to this repository. W
 
 **Generic:**
 
-- [Values](Values.md)
-- [Mission Statement](Mission Statement.md)
+- [Values](https://github.com/skcript/RedBook/blob/master/Values.md)
+- [Mission Statement](https://github.com/skcript/RedBook/blob/master/Mission%20Statement.md)
 
 **Policies**
 
