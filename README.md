@@ -4,7 +4,7 @@ Everyday, we work on ideas that are highly complex and solve problems that are s
 
 While these things sounds good on paper, it is far more difficult to implement, and adopt a new cultural idea in the company. But for the ones who’re joining our company, we use something called the RedBook, which gives them a glimpse of what they can expect and how the company works. 
 
-We started working on the #OpenCulture project that encourages people to open-source their company culture to create one super huge book of culture to help other startups.
+We started working on the [#OpenCulture](https://twitter.com/SkcriptHQ/status/644131856334499841) project that encourages people to open-source their company culture to create one super huge book of culture to help other startups.
 
 We are open-sourcing our culture documents and the contents of our RedBook in this repository. We are looking to open source the following documents:
 
