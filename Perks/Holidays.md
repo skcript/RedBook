@@ -10,6 +10,10 @@
     <td>August 15</td>
   </tr>
   <tr>
+    <td>Republic Day</td>
+    <td>January 26</td>
+  </tr>
+  <tr>
     <td>Christmas Day</td>
     <td>December 25</td>
   </tr>
