@@ -8,7 +8,6 @@ While these things sounds good on paper, it is far more difficult to implement, 
 
 We started working on the [#OpenCulture](https://twitter.com/SkcriptHQ/status/644131856334499841) project that encourages people to open-source their company culture to create one super huge book of culture to help other startups.
 
-***
 
 ## Getting Started
 
@@ -30,7 +29,6 @@ We will constantly approve pull requests and contributions to this repository. W
 
 — [Karthik K](https://twitter.com/imkarthikk)
 
-***
 
 ## Contents
 
@@ -65,7 +63,6 @@ We will constantly approve pull requests and contributions to this repository. W
 
 - [Hierarchy](https://github.com/skcript/RedBook/blob/master/Internal/Hierarchy.md)
 
-***
 
 ## Contributors
 
@@ -78,28 +75,26 @@ This project adheres to the [Open Code of Conduct][code-of-conduct]. By particip
 
 [code-of-conduct]: http://todogroup.org/opencodeofconduct/#RedBook/karthik@skcript.com
 
-***
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-  MIT License
+    MIT License
 
-  Copyright (c) 2017 Skcript
+    Copyright (c) 2017 Skcript
 
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to deal
-  in the Software without restriction, including without limitation the rights
-  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-  copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
 
-  The above copyright notice and this permission notice shall be included in all
-  copies or substantial portions of the Software.
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
 
 
-***
 
 ## About
 
