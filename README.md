@@ -1,10 +1,16 @@
 # RedBook
 
+![Redbook Image](redbook.jpeg)
+
 Everyday, we work on ideas that are highly complex and solve problems that are still a challenge to the entire industry. To do that kind of work, we understand the importance of having an open, inclusive and collaborative culture. Over the past few months, we’ve invested a lot of time in exploring and experimenting different areas where we could innovate in terms of creating the most effective company culture. 
 
 While these things sounds good on paper, it is far more difficult to implement, and adopt a new cultural idea in the company. But for the ones who’re joining our company, we use something called the RedBook, which gives them a glimpse of what they can expect and how the company works. 
 
 We started working on the [#OpenCulture](https://twitter.com/SkcriptHQ/status/644131856334499841) project that encourages people to open-source their company culture to create one super huge book of culture to help other startups.
+
+***
+
+## Getting Started
 
 We are open-sourcing our culture documents and the contents of our RedBook in this repository. We are looking to open source the following documents:
 
@@ -74,15 +80,35 @@ This project adheres to the [Open Code of Conduct][code-of-conduct]. By particip
 
 ***
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+  MIT License
+
+  Copyright (c) 2017 Skcript
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+
+***
+
 ## About
 
 ![Skcript](http://www.skcript.com/static/skcript_norm.png)
 
-RedBook is maintained and funded by Skcript. The names and logos for
-Skcript are properties of Skcript.
+Redbook is maintained by Skcript. The names and logos for Skcript are properties of Skcript.
 
 We love open source, and we have been doing quite a bit of contributions to the community. Take a look at them [here][skcriptoss]. Also, encourage people around us to get involved in community [operations][community]. [Join us][hiring], if you'd like to see the world change from our HQ.
 
 [skcriptoss]: http://skcript.github.io/
-[community]: http://www.skcript.com/community?utm_source=github
+[community]: http://discourse.skcript.com/
 [hiring]: http://www.skcript.com/careers?utm_source=github
